@@ -1,6 +1,6 @@
 # Jasmine Dojo Testes
 
-![Test Driven Development](https://anvileight.com/media/django-summernote/2016-05-17/aa26a19b-9000-49af-a833-7a71d4f938a4.jpg)
+![Test Driven Development](https://www.allaboutcircuits.com/uploads/articles/red-green-refactor.png)
 
 ## Criar uma calculadora com as seguintes operações:
 
@@ -9,4 +9,4 @@
 * Divisão
 * Multiplicação
 
-![Calculadora](http://thesweetsetup.com/wp-content/uploads/2015/12/apple-calculator-landscape.jpg)
+![Calculadora](https://d30y9cdsu7xlg0.cloudfront.net/png/42733-200.png)
